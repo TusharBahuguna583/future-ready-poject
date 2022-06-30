@@ -23,13 +23,13 @@ Core Idea of Project is to build an sample prototype of Online Education web sit
 Static Web Apps
  
 # Website Screenshots :
-### Home Page:
+## Home Page:
 ![image](https://user-images.githubusercontent.com/104511514/176636856-76b06e1d-da28-4f10-8ef7-a5848eddc872.png)
-### About Section :
+## About Section :
 ![image](https://user-images.githubusercontent.com/104511514/176637248-d87c1a7b-d2df-4f04-b792-a226eb3d61ee.png)
-### Courses Section :
+## Courses Section :
 ![image](https://user-images.githubusercontent.com/104511514/176637548-b5e2f9f2-1096-43f1-a8e9-5f506834881c.png)
-### Contact Section :
+## Contact Section :
 ![image](https://user-images.githubusercontent.com/104511514/176638067-3f30b18e-3313-4609-a893-5722e32dd4b5.png)
 
 ### -------------------------------------------------------THANK YOU--------------------------------------------------------
